@@ -1,0 +1,16 @@
+﻿  gameApp.cpp
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe_6x6\tictactoe_6x6\gameapp.cpp(739): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe_6x6\tictactoe_6x6\gameapp.cpp(740): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe_6x6\tictactoe_6x6\gameapp.cpp(741): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe_6x6\tictactoe_6x6\gameapp.cpp(742): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe_6x6\tictactoe_6x6\gameapp.cpp(1207): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe_6x6\tictactoe_6x6\gameapp.cpp(1211): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe_6x6\tictactoe_6x6\gameapp.cpp(1252): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe_6x6\tictactoe_6x6\gameapp.cpp(1256): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe_6x6\tictactoe_6x6\gameapp.cpp(1299): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe_6x6\tictactoe_6x6\gameapp.cpp(1303): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe_6x6\tictactoe_6x6\gameapp.cpp(1349): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe_6x6\tictactoe_6x6\gameapp.cpp(1353): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe_6x6\tictactoe_6x6\gameapp.cpp(52): warning C4715: 'gameApp::initGraphics': not all control paths return a value
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe_6x6\tictactoe_6x6\gameapp.cpp(1491): warning C4715: 'gameApp::minimax': not all control paths return a value
+  TicTacToe_6x6.vcxproj -> C:\Users\hamid\Desktop\Project_SaniaHamid\Project\TicTacToe_6x6\Debug\TicTacToe_6x6.exe

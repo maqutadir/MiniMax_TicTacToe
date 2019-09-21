@@ -1,0 +1,8 @@
+﻿  gameApp.cpp
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe\tictactoe\gameapp.cpp(423): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe\tictactoe\gameapp.cpp(424): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe\tictactoe\gameapp.cpp(425): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe\tictactoe\gameapp.cpp(426): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe\tictactoe\gameapp.cpp(53): warning C4715: 'gameApp::initGraphics': not all control paths return a value
+c:\users\hamid\desktop\project_saniahamid\project\tictactoe\tictactoe\gameapp.cpp(920): warning C4715: 'gameApp::minimax': not all control paths return a value
+  TicTacToe.vcxproj -> C:\Users\hamid\Desktop\Project_SaniaHamid\Project\TicTacToe\Debug\TicTacToe.exe
